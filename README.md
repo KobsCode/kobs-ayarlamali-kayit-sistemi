@@ -1,0 +1,1 @@
+# kobs-ayarlamali-kayit-sistemi
